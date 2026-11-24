@@ -1,4 +1,4 @@
-# Active Directory & Enterprise Identity Security Lab
+# Active Directory & Enterprise Identity and Access Management
 
 **Windows Server 2025 | Active Directory | PowerShell | IAM | Group Policy | VirtualBox**
 
